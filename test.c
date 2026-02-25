@@ -1,9 +1,8 @@
 #include<stdio.h>
 int main(){
 	sleep(0);
-	printf("ccc);
+	printf("ccc");
+	printf("eee");
 
-	sleep(66);
-	printf("ddd");
 	return 0;
 }
